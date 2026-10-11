@@ -1,216 +1,318 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:123456,100:38BDF8&height=220&section=header&text=Hi%20%F0%9F%91%8B%2C%20I%27m%20Vignesh%20S&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Full-Stack%20%7C%20AI&descSize=17&descAlignY=58" width="100%" alt="Vignesh S profile banner"/>
+<!-- ═══════════════════════ HERO SECTION ═══════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:080B16,45:102A43,100:00D9FF&text=Vignesh%20S&fontSize=58&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=SOFTWARE%20DEVELOPER%20%7C%20FULL-STACK%20%7C%20AI&descSize=15&descAlignY=60" width="100%" alt="Vignesh S — Software Developer"/>
 
 <a href="https://github.com/Vignesh-23-09">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+%7C+React;Building+Full-Stack+Applications;Exploring+AI-Powered+Solutions;Learning+Something+New+Every+Day" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Engineering+ideas+into+software.;Java+%7C+Spring+Boot+%7C+React;Building+AI-powered+developer+tools.;Learn.+Build.+Ship.+Repeat." alt="Developer introduction animation"/>
 </a>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Vignesh-23-09&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/Vignesh-23-09?style=for-the-badge&color=38BDF8&label=FOLLOWERS" alt="GitHub followers"/>
-</p>
+<br/>
+
+<a href="https://github.com/Vignesh-23-09?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-My%20Repositories-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore repositories"/>
+</a>
+<a href="https://www.linkedin.com/in/svignesh23/">
+  <img src="https://img.shields.io/badge/Connect-on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Vignesh-23-09&style=flat-square&color=00D9FF&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## `01` — The Developer Behind the Code
 
-Hi! I'm **Vignesh S**, a Computer Science Engineering student passionate about software development, problem-solving, and building practical applications.
+<img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=Vignesh-23-09&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github" alt="GitHub overview"/>
 
-- 💻 Primary programming language: **Java**
-- 🌐 Interested in full-stack and backend development
-- 🤖 Exploring AI-powered applications and developer tools
-- 🧠 Practicing Data Structures and Algorithms
-- 🚀 Building projects that solve real-world problems
-- 📚 Always learning, experimenting, and improving
+I'm **Vignesh S**, a Computer Science Engineering student passionate about building useful software, solving technical problems, and exploring the intersection of full-stack development and artificial intelligence.
+
+I believe in learning by building — turning concepts into working applications, understanding how systems communicate, and continuously improving the way I write code.
+
+- 💻 **Core language:** Java
+- ⚙️ **Development interests:** Backend engineering and full-stack applications
+- 🤖 **Exploring:** Generative AI and intelligent developer tools
+- 🧠 **Practicing:** Data Structures and Algorithms
+- 🚀 **Building:** Practical applications with real-world use cases
+
+<br clear="right"/>
 
 ---
 
-## 🌐 Connect With Me
+## `02` — Engineering Toolkit
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/svignesh23/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:s.vignesh2309@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://leetcode.com/u/Vignesh2309/">
-  <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
-<a href="https://github.com/Vignesh-23-09">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,js&theme=dark" alt="Java, Python and JavaScript"/>
+
+### Frontend Engineering
+
+<img src="https://skillicons.dev/icons?i=html,css,react,vite&theme=dark" alt="HTML, CSS, React and Vite"/>
+
+### Backend Engineering
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,maven&theme=dark" alt="Spring Boot, Node.js, Express and Maven"/>
+
+### Data & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,git,github,postman,vscode&theme=dark" alt="Databases and development tools"/>
 
 </div>
 
----
+<table>
+<tr>
+<td width="33%" valign="top">
 
-## 🛠️ Tech Stack
+**Backend**
 
-### 💻 Programming Languages
+- Java
+- Spring Boot
+- Node.js
+- Express.js
+- REST APIs
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js" alt="Java, Python, JavaScript"/>
-</p>
+</td>
+<td width="33%" valign="top">
 
-### 🎨 Frontend Development
+**Frontend & Data**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,vite" alt="HTML, CSS, React, Vite"/>
-</p>
+- React
+- HTML & CSS
+- JavaScript
+- MySQL
+- MongoDB
 
-### ⚙️ Backend Development
+</td>
+<td width="33%" valign="top">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,maven" alt="Spring Boot, Node.js, Express, Maven"/>
-</p>
+**Tools & Concepts**
 
-### 🗄️ Databases
+- Git & GitHub
+- Maven
+- JWT
+- WebSockets
+- DSA & OOP
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" alt="MySQL, MongoDB, Firebase"/>
-</p>
+</td>
+</tr>
+</table>
 
-### 🔧 Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Git, GitHub, VS Code, Postman"/>
-</p>
-
-### 🤖 AI & Other Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/Generative%20AI-Exploring-412991?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Generative AI"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-Development-009688?style=for-the-badge" alt="REST APIs"/>
-  <img src="https://img.shields.io/badge/DSA-Practice-2563EB?style=for-the-badge" alt="Data Structures and Algorithms"/>
-</p>
+<sub>Technologies shown represent my development toolkit; individual project repositories document the specific implementations.</sub>
 
 ---
 
-## 🚀 Featured Projects
+## `03` — Selected Engineering Projects
+
+*Four projects. Four different problems. One goal: build software that is useful.*
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🚗 Dynamic Carpooling Platform</h3>
-      <p align="center">
-        <a href="https://github.com/Vignesh-23-09/carpooling">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vignesh-23-09&repo=carpooling&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Carpooling project"/>
-        </a>
-      </p>
-      <p align="center">A ride-sharing application that helps commuters traveling along similar routes share rides and reduce travel costs.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Java-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🤖 AI-Powered PR Review Agent</h3>
-      <p align="center">
-        <a href="https://github.com/Vignesh-23-09/pr-review-agent">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vignesh-23-09&repo=pr-review-agent&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="PR Review Agent project"/>
-        </a>
-      </p>
-      <p align="center">An AI-assisted developer tool designed to review pull requests and identify potential code issues and improvements.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/AI-Code%20Review-8B5CF6?style=flat-square"/>
-        <img src="https://img.shields.io/badge/GitHub-Integration-181717?style=flat-square&logo=github&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🔐 Password Manager</h3>
-      <p align="center">
-        <a href="https://github.com/Vignesh-23-09/Password_Manager">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vignesh-23-09&repo=Password_Manager&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Password Manager project"/>
-        </a>
-      </p>
-      <p align="center">A password management application for organizing credentials, with an emphasis on authentication and protecting sensitive information.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Security-Credentials-2563EB?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Full--Stack-Development-0D9488?style=flat-square"/>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🚌 Online Bus Tracking</h3>
-      <p align="center">
-        <a href="https://github.com/Vignesh-23-09/OnlineBusTracking">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vignesh-23-09&repo=OnlineBusTracking&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Online Bus Tracking project"/>
-        </a>
-      </p>
-      <p align="center">A transportation application focused on bus tracking and helping users plan their journeys more conveniently.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Transportation-Technology-0EA5E9?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Web-Application-6366F1?style=flat-square"/>
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚘 Dynamic Carpooling Platform
+
+<a href="https://github.com/Vignesh-23-09/carpooling">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vignesh-23-09&repo=carpooling&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF" width="100%" alt="Carpooling repository card"/>
+</a>
+
+**The problem:** Commuters travelling along similar routes often travel separately.
+
+**The solution:** A ride-sharing platform designed to connect commuters and help reduce travel costs.
+
+**Engineering highlights**
+
+- Spring Boot backend and React frontend
+- MySQL persistence
+- JWT-based authentication
+- OSRM-based route distance calculation
+- WebSocket-based real-time functionality
+- Razorpay payment integration
+
+<a href="https://github.com/Vignesh-23-09/carpooling">Explore source code →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI-Powered PR Review Agent
+
+<a href="https://github.com/Vignesh-23-09/pr-review-agent">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vignesh-23-09&repo=pr-review-agent&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF" width="100%" alt="PR review agent repository card"/>
+</a>
+
+**The problem:** Reviewing pull requests manually can take time and make it harder to catch potential issues consistently.
+
+**The solution:** An AI-assisted code review project intended to help developers analyze code changes.
+
+**Engineering focus**
+
+- AI-assisted code analysis
+- Pull request review workflows
+- Developer productivity
+- Clear and actionable feedback
+
+<a href="https://github.com/Vignesh-23-09/pr-review-agent">Explore source code →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 Password Manager
+
+<a href="https://github.com/Vignesh-23-09/Password_Manager">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vignesh-23-09&repo=Password_Manager&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF" width="100%" alt="Password Manager repository card"/>
+</a>
+
+**The problem:** Credentials need to be organized and protected against unauthorized access.
+
+**The solution:** An application for managing stored credentials with attention to authentication and data security.
+
+**Engineering focus**
+
+- Credential management
+- Authentication and access control
+- Data protection
+- Usability and maintainability
+
+<a href="https://github.com/Vignesh-23-09/Password_Manager">Explore source code →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🚌 Online Bus Tracking
+
+<a href="https://github.com/Vignesh-23-09/OnlineBusTracking">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vignesh-23-09&repo=OnlineBusTracking&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF" width="100%" alt="Online Bus Tracking repository card"/>
+</a>
+
+**The problem:** Travellers need convenient access to bus location and journey information.
+
+**The solution:** A transportation-focused project for bus tracking and journey planning.
+
+**Engineering focus**
+
+- Transportation technology
+- User-facing application workflows
+- Journey information
+- Practical software development
+
+<a href="https://github.com/Vignesh-23-09/OnlineBusTracking">Explore source code →</a>
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 📊 GitHub Analytics
+## `04` — GitHub Performance Dashboard
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Vignesh-23-09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&rank_icon=github" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vignesh-23-09&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vignesh-23-09&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub streak"/>
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Vignesh-23-09&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub streak statistics"/>
+<br/><br/>
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh-23-09&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" alt="Most used languages"/>
 
 </div>
 
-### 📈 Most Used Languages
+### Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh-23-09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&langs_count=8" alt="Most used programming languages"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vignesh-23-09&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution activity graph"/>
 
 </div>
 
-### 🔥 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vignesh-23-09&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true" width="100%" alt="GitHub contribution graph"/>
-
-</div>
+<sub>Statistics are generated by external services and may be delayed or temporarily unavailable. Language percentages describe repository code, not necessarily skill level.</sub>
 
 ---
 
-## 🎯 Current Focus
+## `05` — What I'm Working Toward
 
-- Strengthening Java, Spring Boot, and backend development
-- Practicing DSA and solving coding problems
-- Building reliable and maintainable full-stack applications
-- Exploring practical applications of Generative AI
-- Improving software design, debugging, and problem-solving skills
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Engineering Skills
+
+- Strengthen Java and Spring Boot
+- Understand backend architecture and API design
+- Write readable, maintainable code
+- Improve database and debugging skills
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Problem Solving
+
+- Practice DSA consistently
+- Improve time and space complexity analysis
+- Learn common algorithmic patterns
+- Prepare for technical interviews
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI & Innovation
+
+- Explore LLM-powered applications
+- Build useful AI developer tools
+- Experiment with practical AI integrations
+- Understand AI-assisted workflows
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Professional Growth
+
+- Develop production-minded projects
+- Improve collaboration through Git
+- Learn software engineering best practices
+- Contribute to meaningful projects
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 💡 Developer Mindset
+## `06` — Beyond the Code
 
-<div align="center">
-
-### "Build. Learn. Debug. Improve. Repeat."
-
-*Every project is an opportunity to learn something new.*
-
-</div>
+- 📖 Continuously learning new technologies and concepts
+- 🏆 Interested in coding challenges and hackathons
+- 🤝 Enjoy collaborating and exchanging ideas
+- 🎯 Focused on becoming a stronger software engineer, one project at a time
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile! 💙
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1500&color=00D9FF&center=true&vCenter=true&width=600&lines=Think+clearly.;Build+with+purpose.;Write+better+code.;Keep+getting+better." alt="Engineering mindset"/>
 
-⭐ Explore my repositories and feel free to connect!
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0D1117&height=120&section=footer" width="100%" alt="Footer banner"/>
+**Have an interesting idea? Let's connect and build something meaningful.**
+
+<a href="https://www.linkedin.com/in/svignesh23/">
+  <img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a>
+<a href="mailto:s.vignesh2309@gmail.com">
+  <img src="https://img.shields.io/badge/Send%20an%20Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/>
+</a>
+
+<br/><br/>
+
+<sub>Designed with curiosity, built with code, improved with every iteration.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00D9FF,55:102A43,100:080B16" width="100%" alt="Footer banner"/>
 
 </div>
