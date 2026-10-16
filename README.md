@@ -3,18 +3,15 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,35:1e1b4b,70:075985,100:06b6d4&text=VIGNESH%20S&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=JAVA%20DEVELOPER%20%7C%20FULL%20STACK%20%7C%20AI%20ENTHUSIAST&descAlignY=58&descSize=15" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=800&lines=Java+Developer+%7C+Problem+Solver;Building+AI-Powered+Applications;Spring+Boot+%7C+React+%7C+MySQL;Turning+Ideas+Into+Working+Projects;Learn+%E2%80%A2+Build+%E2%80%A2+Improve" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=800&lines=Java+Developer+%7C+Problem+Solver;Building+AI-Powered+Applications;Spring+Boot+%7C+React+%7C+MySQL;Exploring+Generative+AI+and+LLMs;Learn+%E2%80%A2+Build+%E2%80%A2+Improve" alt="Typing SVG" />
 
 <br/><br/>
 
 <a href="https://github.com/Vignesh-23-09">
 <img src="https://img.shields.io/badge/GitHub-Vignesh--23--09-181717?style=for-the-badge&logo=github" />
 </a>
-<a href="https://www.linkedin.com/" >
+<a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="mailto:">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
@@ -30,19 +27,19 @@
 <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh-23-09&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 - 🎓 Computer Science Engineering student at V.S.B Engineering College, Karur.
-- 💻 Primary programming language: Java.
+- ☕ Java is my primary programming language.
 - 🌐 Interested in full-stack development and backend engineering.
-- 🤖 Exploring AI agents, LLM applications, and developer tools.
+- 🤖 Exploring AI agents, LLMs, and intelligent applications.
 - 🧠 Practicing Data Structures and Algorithms.
-- 🚀 Building practical projects that solve real-world problems.
+- 🚀 Building projects that solve real-world problems.
 - 🏢 Completed a Java Full Stack Development internship through Infosys Springboard 6.0.
-- 🎯 Aspiring software developer focused on continuous learning.
+- 🎯 Aspiring software engineer committed to continuous learning.
 
 <br clear="right"/>
 
 ---
 
-<h2 align="center">🛠️ TECH STACK</h2>
+<h2 align="center">⚙️ TECH STACK</h2>
 
 <div align="center">
 
@@ -50,21 +47,19 @@
 
 <img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css&theme=dark" />
 
-### Frontend Development
+### Frameworks & Development
 
-<img src="https://skillicons.dev/icons?i=react,html,css,js&theme=dark" />
-
-### Backend & Frameworks
-
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi&theme=dark" />
+<img src="https://skillicons.dev/icons?i=spring,react,nodejs,express,fastapi&theme=dark" />
 
 ### Database & Tools
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,git,github,vscode&theme=dark" />
 
-### Areas of Interest
+<br/>
 
-`Data Structures & Algorithms` · `Object-Oriented Programming` · `REST APIs` · `AI Agents` · `Generative AI` · `Database Management`
+<img src="https://img.shields.io/badge/DSA-Practice-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/REST%20APIs-Development-0891B2?style=flat-square" />
+<img src="https://img.shields.io/badge/Generative%20AI-Exploring-DB2777?style=flat-square" />
 
 </div>
 
@@ -94,66 +89,80 @@
 
 <h3>🚗 Carpooling Platform</h3>
 
-A ride-sharing platform designed to connect drivers and passengers for convenient, coordinated travel.
+A dynamic ride-sharing application designed to connect drivers and passengers.
 
-**Technologies**
+**Tech Stack**
 - Java & Spring Boot
 - React
 - MySQL
 - JWT Authentication
-- Razorpay Integration
+- Razorpay
 - WebSockets
-- OSRM Distance Calculation
+- OSRM
 
-<a href="https://github.com/Vignesh-23-09/carpooling">🔗 View Repository →</a>
+**Key Features**
+- User authentication
+- Ride-sharing workflows
+- Payment integration
+- Distance calculation
+- Real-time tracking
+
+<a href="https://github.com/Vignesh-23-09/carpooling">View Repository →</a>
 
 </td>
 <td width="50%" valign="top">
 
 <h3>🤖 AI PR Review Agent</h3>
 
-An AI-powered developer tool designed to assist with pull request reviews and improve code review workflows.
+An AI-powered tool designed to assist code reviews and improve developer workflows.
 
-**Technologies**
-- AI / LLM Integration
-- Backend API Development
-- GitHub Workflows
-- Automated Code Analysis
+**Focus Areas**
+- AI-assisted code analysis
+- Pull request review workflows
+- Backend integrations
+- Developer productivity
 
-<a href="https://github.com/Vignesh-23-09/pr-review-agent">🔗 View Repository →</a>
+<a href="https://github.com/Vignesh-23-09/pr-review-agent">View Repository →</a>
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
 <h3>🏥 Hospital AI Assistant</h3>
 
-An AI-powered hospital information assistant that answers user queries using structured hospital data.
+An AI-powered hospital information assistant that answers questions using structured hospital data.
 
-**Technologies**
+**Tech Stack**
 - React
 - Node.js & Express
 - Google Gemini API
-- JSON Data Source
+- JSON
 - REST APIs
 
-<a href="https://github.com/Vignesh-23-09/hospital_assist_agent">🔗 View Repository →</a>
+**Key Features**
+- Hospital information queries
+- AI-generated responses
+- Structured data retrieval
+- Interactive user interface
+
+<a href="https://github.com/Vignesh-23-09/hospital_assist_agent">View Repository →</a>
 
 </td>
 <td width="50%" valign="top">
 
 <h3>🔐 Password Manager</h3>
 
-A password management project focused on organizing credentials through a software application.
+A software project focused on managing and organizing user credentials.
 
 **Focus Areas**
-- Application Development
-- Data Management
-- User Interface Design
-- Programming Fundamentals
+- Application development
+- Data management
+- User interface design
+- Programming fundamentals
 
-<a href="https://github.com/Vignesh-23-09?tab=repositories">🔗 Explore Repositories →</a>
+<a href="https://github.com/Vignesh-23-09?tab=repositories">Explore Repositories →</a>
 
 </td>
 </tr>
@@ -161,7 +170,7 @@ A password management project focused on organizing credentials through a softwa
 
 ---
 
-<h2 align="center">🏢 INTERNSHIP & LEARNING</h2>
+<h2 align="center">🏢 INTERNSHIP EXPERIENCE</h2>
 
 <div align="center">
 
@@ -171,12 +180,12 @@ A password management project focused on organizing credentials through a softwa
 
 📅 February 2026 – April 2026
 
-Technologies: Java · Maven · MySQL
+`Java` `Maven` `MySQL`
 
-- Practiced Java full-stack development.
+- Gained practical exposure to Java full-stack development.
 - Worked on a dynamic ride-sharing / carpooling project.
-- Strengthened backend development and database skills.
-- Gained practical experience with application development.
+- Developed backend and database skills.
+- Strengthened application development and teamwork abilities.
 
 </div>
 
@@ -188,10 +197,10 @@ Technologies: Java · Maven · MySQL
 
 | Focus Area | Goal |
 |:--|:--|
-| ☕ Java | Strengthen Core Java and OOP fundamentals |
-| 🧠 DSA | Improve problem-solving and coding efficiency |
-| 🌐 Full Stack | Build production-oriented web applications |
-| 🤖 AI | Explore LLMs and AI-powered developer tools |
+| ☕ Java | Strengthen Core Java and OOP |
+| 🧠 DSA | Improve problem-solving skills |
+| 🌐 Full Stack | Build practical web applications |
+| 🤖 AI | Explore LLMs and AI agents |
 | 🗄️ Backend | Improve Spring Boot, REST APIs and SQL |
 | 💼 Career | Prepare for software engineering placements |
 
@@ -203,47 +212,51 @@ Technologies: Java · Maven · MySQL
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Vignesh-23-09/Vignesh-23-09/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+<img width="100%" src="https://raw.githubusercontent.com/Vignesh-23-09/Vignesh-23-09/output/github-snake.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
 ---
 
-<h2 align="center">📅 CONTRIBUTION ACTIVITY</h2>
+<h2 align="center">📅 GITHUB CONTRIBUTION ACTIVITY</h2>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vignesh-23-09&theme=tokyonight" width="100%" alt="GitHub Contribution Summary" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vignesh-23-09&theme=tokyonight" alt="GitHub Contribution Summary" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vignesh-23-09&theme=tokyonight&utcOffset=5.5" width="49%" alt="Productive Time" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vignesh-23-09&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vignesh-23-09&theme=tokyonight" width="49%" alt="GitHub Statistics" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vignesh-23-09&theme=tokyonight" alt="GitHub Statistics" />
 
 </div>
 
 ---
 
-<h2 align="center">💻 LEETCODE JOURNEY</h2>
+<h2 align="center">💻 LEETCODE DASHBOARD</h2>
 
 <div align="center">
 
-<a href="https://leetcode.com/">
-<img src="https://leetcard.jacoblin.cool/?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Dashboard" />
+<a href="https://leetcode.com/u/Vignesh2309/">
+<img src="https://leetcard.jacoblin.cool/Vignesh2309?theme=dark&font=Baloo&ext=heatmap" width="500" alt="Vignesh2309 LeetCode Statistics and 52-Week Heatmap" />
 </a>
 
 <br/><br/>
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Practice%20DSA-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<a href="https://leetcode.com/u/Vignesh2309/">
+<img src="https://img.shields.io/badge/LeetCode-View%20My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
+
+<br/><br/>
+
+**Learn. Solve. Improve. Repeat.** 🧠
 
 </div>
 
 ---
 
-<h2 align="center">🤝 LET'S CONNECT</h2>
+<h2 align="center">🤝 CONNECT WITH ME</h2>
 
 <div align="center">
 
@@ -251,8 +264,8 @@ Technologies: Java · Maven · MySQL
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+<a href="https://leetcode.com/u/Vignesh2309/">
+<img src="https://img.shields.io/badge/LeetCode-Connect-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 <br/><br/>
